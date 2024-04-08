@@ -1,4 +1,4 @@
-# Multi-Agent Pathfinding with Collision Avoidance
+# Multi-Agent Pathfinding with Collision Avoidance, this is an overall logic serve as a references for the work
 **Skills:** C++, Graph Theory, A* Algorithm, Time-Expanded Network  
 
 - **Advanced Algorithm Engineering for Pathfinding**: Engineered an advanced algorithm to solve multi-agent pathfinding challenges on a 4-connected grid. Focused on optimizing path efficiency and implementing comprehensive collision avoidance to ensure completeness and cost-effectiveness of solutions.
